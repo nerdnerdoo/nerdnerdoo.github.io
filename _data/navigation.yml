@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "날짜별"
+    url: /years/
+  - title: "태그별"
+    url: /tags/
