@@ -1,7 +1,7 @@
 Inho Oh:
   name   : "Inho Oh"
   bio    : "hmm.."
-  avatar : #
+  avatar : "https://github.com/webispy.png"
   links:
     - label: "Email"
       icons: "fas fa-fw fa-envelope-square"
@@ -21,5 +21,5 @@ Junhwan Park:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JunhwanPark"
-      
+
 # Add your name
