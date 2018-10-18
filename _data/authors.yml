@@ -10,4 +10,16 @@ Inho Oh:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/webispy"
 
+Junhwan Park:
+  name   : "Junhwan Park"
+  bio    : "I love family"
+  avatar : #
+  links:
+    - label: "Email"
+      icons: "fas fa-fw fa-envelope-square"
+      url: "mailto:semoking@naver.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JunhwanPark"
+      
 # Add your name
