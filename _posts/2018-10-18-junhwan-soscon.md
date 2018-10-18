@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "SOSCON 2018 짧은 후기"
-tags: 2018-10
+tags: junhwan 2018-10
 categories: review
 author: Junhwan Park
 author_profile: true
