@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "11월 테크캘린더"
-tags: 2018-10
+tags: junhwan 2018-10
 categories: information
 author: Junhwan Park
 author_profile: true
