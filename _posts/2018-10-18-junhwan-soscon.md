@@ -3,6 +3,8 @@ layout: single
 title:  "[Junhwan] SOSCON 2018 짧은 후기"
 tags: 2018-10
 categories: review
+author: Junhwan Park
+author_profile: true
 ---
 소스콘 2일차 오전 다녀왔습니다. 세션들은 잘 기억이.... 안나요..^^<br>
 집에서 우면동가는 셔틀 타고가서, 우면동에서 아침이랑 점심도 먹었습니다.<br>
