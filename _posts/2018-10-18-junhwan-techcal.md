@@ -3,6 +3,8 @@ layout: single
 title:  "[Junhwan] 11월 테크캘린더"
 tags: 2018-10
 categories: information
+author: Junhwan Park
+author_profile: true
 ---
 * 11/6 aws : devday : https://aws.amazon.com/ko/events/devday/ <br>
 * 11/7 ms : future now : https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x10169766c3c <br>
