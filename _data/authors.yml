@@ -25,7 +25,7 @@ Junhwan Park:
 Navilera:
   name   : "나빌레라"
   bio    : ""
-  avatar : ""
+  avatar : "https://github.com/nerdnerdoo/nerdnerdoo.github.io/blob/master/assets/images/blackhole.jpg"
   links:
     - label: "KLDP"
       icon: "fab fa-fw fa-github"
