@@ -22,4 +22,13 @@ Junhwan Park:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JunhwanPark"
 
+나빌레라:
+  name   : "나빌레라"
+  bio    : ""
+  avatar : ""
+  links:
+    - label: "KLDP"
+      icon: "fab fa-fw fa-github"
+      url: "https://kldp.org/blog/2942"
+
 # Add your name
