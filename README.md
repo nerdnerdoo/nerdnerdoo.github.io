@@ -11,8 +11,8 @@
     title: '이 글의 제목'
     tag: # 태깅 정보
     categories: 'news' # 'news', 'blog', ...
-    author: # 이 글의 작성자 정보
-    author_profile: false # 작성자 정보를 보여줄지 여부
+    author: # 이 글의 작성자 정보(_data/authors.yml에 있는 ID)
+    author_profile: true # 작성자 정보를 보여줄지 여부
     toc: false # table of contents 를 보여줄지 여부
     ---
     여기서부터는 자유롭게 Markdown 형태로 작성
