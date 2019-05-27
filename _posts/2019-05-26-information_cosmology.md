@@ -3,7 +3,7 @@ layout: single
 title: '정보 우주론에 대한 고찰 01'
 tag: 정보우주론
 categories: '뻘소리' # 'news', 'blog', ...
-author: navilera
+author: Navilera
 author_profile: false # 작성자 정보를 보여줄지 여부
 toc: false # table of contents 를 보여줄지 여부
 ---
