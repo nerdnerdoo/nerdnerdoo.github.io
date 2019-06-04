@@ -15,7 +15,7 @@ toc: false # table of contents 를 보여줄지 여부
 ## 플랑크 시간
 막스 플랑크는 플랑크 상수를 발견하여 양자 역학의 기틀을 만든다. 플랑크 상수에서 유도하여 플랑크 단위계라는 것을 물리학자들은 쓴다. 플랑크 단위계는 플랑크 시간, 플랑크 길이, 플랑크 질량, 플랑크 전하, 플랑크 온도다. 이중 플랑크 시간에 대해 보자.
 
-!(플랑크 시간 공식)[https://wikimedia.org/api/rest_v1/media/math/render/svg/62aadf1c73a34393293f8ef65f8cc7d0a0716e00]
+![플랑크 시간 공식](https://wikimedia.org/api/rest_v1/media/math/render/svg/62aadf1c73a34393293f8ef65f8cc7d0a0716e00)
 
 설명하면 빛의 속도로 플랑크 길이를 진행하는 시간이다. 양자 역학에 따르면 플랑크 시간보다 짧은 시간은 의미가 없다. 뭔가 느낌이 오지 않는가?
 
